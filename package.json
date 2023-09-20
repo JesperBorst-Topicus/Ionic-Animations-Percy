@@ -1,0 +1,23 @@
+{
+  "name": "ionic-animations-percy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesperBorst-Topicus/Ionic-Animations-Percy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesperBorst-Topicus/Ionic-Animations-Percy/issues"
+  },
+  "homepage": "https://github.com/JesperBorst-Topicus/Ionic-Animations-Percy#readme",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
