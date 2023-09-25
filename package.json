@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress-percy-run": "percy exec -- cypress run"
+    "cypress-percy-run": "percy exec -- cypress run --config viewportWidth=320,viewportHeight=568,baseUrl=https://pgo.test.spreekuur.nl"
   },
   "repository": {
     "type": "git",
